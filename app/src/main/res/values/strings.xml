@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Suggest_Activities</string>
+    <array name="Activities">
+        R.drawable.beach,
+        R.drawable.bike,
+        R.drawable.football,
+        R.drawable.museum,
+        R.drawable.park,
+        R.drawable.restaurant,
+        R.drawable.running,
+        R.drawable.shop,
+        R.drawable.swimming,
+        R.drawable.walking
+    </array>
+    <string-array name="Activities_Names">
+        "Go To the Beach",
+        "Riding a Bike",
+        "Play football",
+        "Go To the Museum",
+        "Go To the Park",
+        "Go To the Resturant",
+        "Go To Running",
+        "Go To the Shopping",
+        "Go To Swimming",
+        "Go To Walking",
+    </string-array>
+</resources>
